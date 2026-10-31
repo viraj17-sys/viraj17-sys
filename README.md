@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Viraj Khambhayata 👋
 
-<!--
-**viraj17-sys/viraj17-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MSc IT Student | AI & ML Enthusiast | Python Developer
 
-Here are some ideas to get you started:
+I enjoy building practical software applications and exploring
+Artificial Intelligence, Machine Learning, and intelligent automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently pursuing MSc IT (AI & ML)
+- 💻 Interested in AI, ML, Python and Backend Development
+- 🚀 Building AI-powered applications and web solutions
+- 📚 Continuously learning new technologies
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+- Python, PHP, JavaScript, HTML, CSS
+
+**AI & Backend**
+- FastAPI, LangChain, LangGraph
+- Machine Learning, Generative AI
+
+**Database & Tools**
+- MySQL, SQLite, Git, GitHub, XAMPP
+
+## 🚀 Featured Projects
+
+### AI Research Agent
+An AI-powered research application that searches the web,
+evaluates evidence and generates structured research reports.
+
+### AI Learning Platform
+An educational platform focused on AI-powered learning.
+
+### GearGuard Maintenance Tracker
+A PHP and MySQL-based equipment maintenance management system.
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/viraj17-sys
+- LinkedIn: YOUR_LINKEDIN_URL
